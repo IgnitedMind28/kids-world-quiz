@@ -1,0 +1,20 @@
+# Azure credentials — never commit this
+config.js
+
+# Dependencies
+node_modules/
+
+# macOS
+.DS_Store
+
+# Reference screenshots (large PNG files used during development)
+screen-*.png
+
+# Development/debug scripts
+check-selectors.js
+fetch-pass2.js
+fetch-real.js
+get-score.js
+test-fixes.js
+verify-screens.js
+design-preview.html
